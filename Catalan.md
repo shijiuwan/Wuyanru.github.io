@@ -1,4 +1,4 @@
-<center>Catalan数</center>
+<center>数</center>
 
 <h3>问题引入</h3>
 
