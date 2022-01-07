@@ -1,6 +1,6 @@
-<h1><center>Catalan数</center></h1>
+<center>Catalan数</center>
 
-### 问题引入
+<h3>问题引入</h3>
 
 使用 $ n $ 个相同的节点可构造多少种不同的二叉树？其中 $ 1\le n\le5000 $。
 
