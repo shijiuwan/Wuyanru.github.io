@@ -1,4 +1,4 @@
-<h1>Catalan数<\h1>
+<h1>Catalan数</h1>
 
 ### 问题引入
 
