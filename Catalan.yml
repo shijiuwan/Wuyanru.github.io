@@ -1,3 +1,2 @@
-layout: page
-title: "Catalan"
-permalink: /Catalan/
+theme: jekyll-theme-cayman
+markdown: kramdown
